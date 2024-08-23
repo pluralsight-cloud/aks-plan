@@ -28,6 +28,9 @@
 - [Secure your Azure Kubernetes Service (AKS) clusters with Azure Policy](https://learn.microsoft.com/azure/aks/use-azure-policy)
 - [Azure Well-Architected Framework review - Azure Kubernetes Service (AKS - Azure Policy)](https://learn.microsoft.com/azure/well-architected/service-guides/azure-kubernetes-service#azure-policy)
 
+- [Demo Files](/Module-2-Clip-3-Resources/)
+
+
 ### Plan AKS Node Pools
 
 - [Best practices for performance and scaling for small to medium workloads in Azure Kubernetes Service (AKS) - Virtual machines (VMs)](https://learn.microsoft.com/azure/aks/best-practices-performance-scale#virtual-machines-vms)
